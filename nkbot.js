@@ -16,7 +16,7 @@ let zeks = 'NikolaTesla'
 let prefix = '/'
 
 //Comienzo del bot
-const nkbot = new Telegraf(mytoken)
+let nkbot = new Telegraf(mytoken)
 
 //Actividad console
 nkbot.use((ctx, next) => {
