@@ -18,6 +18,17 @@
 
 </p>
 
+## Características del bot 
+|  Contenido  |                                           Sip |
+| :---------------------------------------------: | :-----------: |
+| Bienvenida automática|✔️|
+| Descargador de músicas|✔️|
+| Descargador de videos|✔️|
+| Creador de logos|✔️|
+| Buscadores|✔️|
+| NSFW|✔️|
+| Botones interactivos|✔️|
+
 ## Instalacion en termux
 
 ```cmd
