@@ -23,7 +23,7 @@ nkbot.use((ctx, next) => {
   if(ctx.updateSubTypes[0] == "text"){
     console.log(chalk.green("\n["+ctx.from.first_name+"]" + chalk.white(" Mensaje : ") + chalk.green(ctx.message.text)))
   }else{
-    console.log(chalk.green("\n["+ctx.from.first_name+"]" + chalk.white(" Mensaje : ") + chalk.green(ctx.updateSubTypes[0])))
+    console.log(chalk.green("\n["+ctx.from.first_name+"]" + chalk.white(" Mensaje : ") + chalk.green(ctx.message.text)))
   }
   next();
 })
