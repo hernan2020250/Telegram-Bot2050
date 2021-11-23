@@ -1,7 +1,7 @@
 //
 // Este proyecto es un bot simple para telegram nwn
 //
-const TeleGraf = require('telegraf')
+let TeleGraf = require('telegraf')
 const axios = require('axios') 
 const chalk = require('chalk')
 const fs = require("fs")                                                                           
