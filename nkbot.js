@@ -19,15 +19,14 @@ let prefix = '/'
 const nkbot = new Telegraf(mytoken)
 
 //Actividad console
-nkbot.use((ctx, next) => {
+/*nkbot.use((ctx, next) => {
   if(ctx.updateSubTypes[0] == "text"){
     console.log(chalk.green("\n["+ctx.from.first_name+"]" + chalk.white(" Mensaje : ") + chalk.green(ctx.message.text)))
   }else{
     console.log(chalk.green("\n["+ctx.from.first_name+"]" + chalk.white(" Mensaje : ") + chalk.green(ctx.message.text)))
   }
   next();
-})
-
+})*/
 //Bienvenida automática
 nkbot.on("new_chat_members", (ctx) => {
 	const offline =[`Se bienvenid@\n¿Como estas mi amig@ :)?`, `Es bueno volver a verte\n¿Como estas mi amig@ :)?`, `Cuanto tiempo\n¿Como estas mi amig@ :)?`]
