@@ -1,7 +1,7 @@
 //
 // Este proyecto es un bot simple para telegram nwn
 //
-const Telegraf = require('telegraf')
+const TeleGraf = require('telegraf')
 const axios = require('axios') 
 const chalk = require('chalk')
 const fs = require("fs")                                                                           
@@ -16,7 +16,7 @@ let zeks = 'NikolaTesla'
 let prefix = '/'
 
 //Comienzo del bot
-let nkbot = new Telegraf(mytoken)
+const nkbot = new TeleGraf(mytoken)
 
 //Actividad console
 nkbot.use((ctx, next) => {
