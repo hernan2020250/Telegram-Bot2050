@@ -1,7 +1,7 @@
 <P align="center">
 <img src="https://i.gifer.com/origin/84/84b7d7e62befb51f831bc0ed938c8742.gif" width="29px"> Sexy Quien Lo Lea UwU <img src="https://thumbs.gfycat.com/AdolescentAgileCoqui-size_restricted.gif" width="29px">
  <P align="center">
-<img src="https://i.gifer.com/8Yyg.gif" width="400" height="230"/>
+<img src="https://c.tenor.com/D2H0hPltOdYAAAAM/golden-boy-fake-keyboard-programing-coding-paper-book.gif" width="400" height="230"/>
 </p>
 <br>
 
