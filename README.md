@@ -14,7 +14,7 @@
  
 </details>
 <P align="center">
-⚡Un bot muy simple para telegram nwn
+⚡Un bot muy simple para telegram en termux nwn
 
 </p>
 
